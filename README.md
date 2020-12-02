@@ -15,5 +15,5 @@ Questo programma rimuove alcuni bloatware(programmi preinstallati in Windows 10)
 ### ISTRUZIONI
 - Installa Python 3.5 o maggiore per il corretto funzionamento dell'app
 - Clicka cerca in Windows e digita "Prompt dei comandi" ed eseguilo come amministratore
-- Scrivi la directory di python3.exe (ES. C:\Program Files\...\python.exe), spazio, la directory del programma .py (ES. C:\Users\...\Bloatware_Remover-V1.0.py) e Invio
+- Scrivi la directory di python.exe (ES. C:\Program Files\...\python.exe), spazio, la directory del programma .py (ES. C:\Users\...\Bloatware_Remover-V1.0.py) e Invio
 - Segui le istruzioni nel Prompt dei comandi"
